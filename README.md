@@ -12,3 +12,6 @@ collides with the border or if it collides with it's own body segemnt, game is o
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/81207867/199570902-4f563017-bbd5-434b-a654-1d4773e3aaaf.jpg)
 
+![Screenshot (38)](https://user-images.githubusercontent.com/81207867/199571619-571a8ea1-caf8-4e4e-90c3-46c867d4d688.jpg)
+
+![Screenshot (39)](https://user-images.githubusercontent.com/81207867/199571653-9792584c-a644-408b-8888-bd6f35ccbe88.jpg)
