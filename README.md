@@ -8,3 +8,7 @@ collides with the border or if it collides with it's own body segemnt, game is o
 # To play
 1. Download all files given into your local machine.
 2. Run main.py and enjoy!!!
+
+
+![Screenshot (37)](https://user-images.githubusercontent.com/81207867/199570902-4f563017-bbd5-434b-a654-1d4773e3aaaf.jpg)
+
