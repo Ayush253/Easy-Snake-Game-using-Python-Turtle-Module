@@ -1,7 +1,7 @@
 # Easy-Snake-Game-using-Python-Turtle-Module
 
 This project will show you how much easy it is to build a classic snake game using Python's Turtle module. 
-It is also great way to understand the concepts of class, objects and inheritance for a begineer while coding this game. It is designed in a way that whenever snake
+It is also great way to understand the concepts of class, objects and inheritance for a beginner while coding this game. It is designed in a way that whenever snake
 eats food i.e. given a turtle shape and a random color, it will increment it's length by 1 with a random color and score gets updated also by adding 1 to previous score. If the snake 
 collides with the border or if it collides with it's own body segemnt, game is over.
 
