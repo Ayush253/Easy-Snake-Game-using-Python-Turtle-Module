@@ -9,3 +9,6 @@ The game can keep track of your highscore as well. The highscore will be retaine
 1. Download all files given into your local machine.
 2. Run main.py and enjoy!!!
 
+![Screenshot (53)](https://user-images.githubusercontent.com/81207867/200501683-58f65f86-579d-4aed-994e-8a46cb7e32b3.jpg)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/81207867/200501849-97c6e50f-e2c0-4648-87de-eb2d10180ec0.jpg)
